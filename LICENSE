@@ -1,0 +1,90 @@
+HYBRID FIXED-WING VTOL UAV – CUSTOM LICENSE v1.0
+
+Copyright (c) 2026 Harishwar A, Vishal R, Surya M
+
+
+1. PERMITTED USE
+
+Permission is hereby granted to individuals to view and study the
+contents of this repository for personal, educational, academic,
+and non-commercial purposes.
+
+
+2. RESTRICTIONS
+
+Without prior written permission from the original authors, the
+following activities are not permitted:
+
+- Copying or reproducing this project or any substantial part of it.
+- Forking or cloning this repository for redistribution.
+- Modifying or creating derivative works based on this project.
+- Republishing or redistributing the project or its modified versions.
+- Using the project for commercial purposes.
+- Using the project design, documentation, or other materials in
+  another public project without permission.
+- Uploading or hosting copies or modified versions of this project
+  on another public or private repository or version-control platform.
+
+
+3. ATTRIBUTION
+
+When this project is referenced in academic work, presentations,
+reports, research, demonstrations, or other discussions, proper
+credit must be given to the original authors:
+
+- Harishwar A
+- Vishal R
+- Surya M
+
+The original project repository should be referenced whenever
+practical.
+
+
+4. OWNERSHIP
+
+All original project materials, including project documentation,
+design files, images, diagrams, and other original materials,
+remain the property of the respective authors, subject to any
+rights or requirements of the institution or sponsoring organization.
+
+
+5. DISCLAIMER
+
+This project and its associated documentation, designs, and
+materials are provided "AS IS", without warranty of any kind,
+express or implied.
+
+The authors shall not be responsible for any damage, injury, loss,
+or other consequences arising from the use, modification, testing,
+or implementation of this project.
+
+
+6. SAFETY
+
+This project involves an unmanned aerial vehicle (UAV).
+
+Any construction, modification, testing, or operation of the UAV
+must be performed responsibly and in accordance with applicable
+aviation regulations, safety requirements, institutional policies,
+and local laws.
+
+Propellers should be removed during bench testing of motors and
+electronic speed controllers whenever appropriate.
+
+
+7. PERMISSIONS
+
+Any use outside the permissions granted in this license requires
+prior written permission from the original authors.
+
+For permission requests, please contact the project authors.
+
+
+PROJECT AUTHORS
+
+Harishwar A
+Vishal R
+Surya M
+
+
+END OF LICENSE
