@@ -61,10 +61,6 @@ The major objectives of the project are:
 
 # 👥 Team & Contributors
 
-## Project Team
-
-## 👥 Team & Contributors
-
 
 - **Vishal R**
 - **Harishwar A**
