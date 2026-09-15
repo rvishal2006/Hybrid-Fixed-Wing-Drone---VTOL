@@ -66,9 +66,9 @@ The major objectives of the project are:
 ## 👥 Team & Contributors
 
 
-  Vishal R
-  Harishwar A
-  Surya M
+- **Vishal R**
+- **Harishwar A**
+- **Surya M**
 
 
 ---
