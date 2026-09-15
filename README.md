@@ -65,7 +65,7 @@ The major objectives of the project are:
 
 ## 👥 Team & Contributors
 
-<table align="center">
+
   <thead>
     <tr>
       <th align="center">Name</th>
@@ -82,7 +82,7 @@ The major objectives of the project are:
       <td align="center"><strong>Surya M</strong></td>
     </tr>
   </tbody>
-</table>
+
 
 ---
 
