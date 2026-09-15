@@ -66,22 +66,9 @@ The major objectives of the project are:
 ## 👥 Team & Contributors
 
 
-  <thead>
-    <tr>
-      <th align="center">Name</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>Harishwar A</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Vishal R</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Surya M</strong></td>
-    </tr>
-  </tbody>
+  Vishal R
+  Harishwar A
+  Surya M
 
 
 ---
