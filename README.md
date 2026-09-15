@@ -83,6 +83,7 @@ The major objectives of the project are:
     </tr>
   </tbody>
 </table>
+
 ---
 
 # 🔧 Hardware Components
